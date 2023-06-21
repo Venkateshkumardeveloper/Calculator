@@ -30,6 +30,7 @@ section>article>.btn{
     border: none;
     margin-top: 2px;
     background-color: antiquewhite;
+    border-radius:20px;
 
 }
 section>article>.btn:hover{
